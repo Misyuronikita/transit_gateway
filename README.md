@@ -42,4 +42,4 @@
 ![no_image](https://labresources.whizlabs.com/73beff77d4bb448c2493e960e609ea6d/image88.png)
 
 ### 8. As you can see the IP address is changed to private ec2 private IP 30.0.1.154
-![no_image](https://labresources.whizlabs.com/73beff77d4bb448c2493e960e609ea6d/9_36_45.png)
+![no_image](https://digitalcloud.training/wp-content/uploads/2020/10/Authenticate-with-SSH-agent.jpg)
